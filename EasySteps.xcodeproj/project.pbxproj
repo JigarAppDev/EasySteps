@@ -3,27 +3,71 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 50;
+	objectVersion = 51;
 	objects = {
 
 /* Begin PBXBuildFile section */
 		0442D1DA2708577400059020 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0442D1D92708577400059020 /* AppDelegate.swift */; };
 		0442D1DC2708577400059020 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0442D1DB2708577400059020 /* SceneDelegate.swift */; };
-		0442D1DE2708577400059020 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0442D1DD2708577400059020 /* ViewController.swift */; };
 		0442D1E12708577400059020 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0442D1DF2708577400059020 /* Main.storyboard */; };
 		0442D1E32708577700059020 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0442D1E22708577700059020 /* Assets.xcassets */; };
 		0442D1E62708577700059020 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0442D1E42708577700059020 /* LaunchScreen.storyboard */; };
+		0442D20527085A5C00059020 /* Global.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0442D20127085A5C00059020 /* Global.swift */; };
+		0442D20627085A5C00059020 /* GlobalConstant.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0442D20227085A5C00059020 /* GlobalConstant.swift */; };
+		0442D20727085A5C00059020 /* AppUtilites.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0442D20327085A5C00059020 /* AppUtilites.swift */; };
+		0442D20827085A5C00059020 /* ServiceCall.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0442D20427085A5C00059020 /* ServiceCall.swift */; };
+		0442D20F27085CC400059020 /* SignUpViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0442D20B27085CC400059020 /* SignUpViewController.swift */; };
+		0442D21027085CC400059020 /* ForgotPasswordViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0442D20C27085CC400059020 /* ForgotPasswordViewController.swift */; };
+		0442D21127085CC400059020 /* ResetPasswordViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0442D20D27085CC400059020 /* ResetPasswordViewController.swift */; };
+		0442D21227085CC400059020 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0442D20E27085CC400059020 /* LoginViewController.swift */; };
+		0445AD21271B152E00061AA0 /* YourDailyStepsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0445AD20271B152E00061AA0 /* YourDailyStepsViewController.swift */; };
+		0445AD24271B1A4B00061AA0 /* DealsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0445AD23271B1A4B00061AA0 /* DealsViewController.swift */; };
+		0445AD27271B1A6200061AA0 /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0445AD26271B1A6200061AA0 /* SettingsViewController.swift */; };
+		0445AD2A271B1A7700061AA0 /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0445AD29271B1A7700061AA0 /* ProfileViewController.swift */; };
+		0448A3A5271ACCB000A7F751 /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0448A3A4271ACCB000A7F751 /* HomeViewController.swift */; };
+		04641F15272044C700645990 /* OpenSans-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 04641F13272044C700645990 /* OpenSans-Regular.ttf */; };
+		04641F16272044C700645990 /* OpenSans-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 04641F14272044C700645990 /* OpenSans-Bold.ttf */; };
+		0473F4FF271C44C4003601EB /* RegionLanguageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0473F4FE271C44C4003601EB /* RegionLanguageViewController.swift */; };
+		0473F503271C4569003601EB /* DeletePopupViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0473F502271C4569003601EB /* DeletePopupViewController.swift */; };
+		0473F531271C4C5E003601EB /* TabViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0473F530271C4C5E003601EB /* TabViewController.swift */; };
+		0473F534271C603D003601EB /* ChangePasswordViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0473F533271C603D003601EB /* ChangePasswordViewController.swift */; };
+		0493F26727663300005A97BD /* UIView+DCAnimationKit.m in Sources */ = {isa = PBXBuildFile; fileRef = 0493F26527663300005A97BD /* UIView+DCAnimationKit.m */; };
+		FAEA66E052931B1F9E4D583C /* Pods_EasySteps.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 25FC69F5FE970482A1D8DFDD /* Pods_EasySteps.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		0442D1D62708577400059020 /* EasySteps.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = EasySteps.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0442D1D92708577400059020 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		0442D1DB2708577400059020 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		0442D1DD2708577400059020 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		0442D1E02708577400059020 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		0442D1E22708577700059020 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0442D1E52708577700059020 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0442D1E72708577700059020 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0442D20127085A5C00059020 /* Global.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Global.swift; sourceTree = "<group>"; };
+		0442D20227085A5C00059020 /* GlobalConstant.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GlobalConstant.swift; sourceTree = "<group>"; };
+		0442D20327085A5C00059020 /* AppUtilites.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppUtilites.swift; sourceTree = "<group>"; };
+		0442D20427085A5C00059020 /* ServiceCall.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ServiceCall.swift; sourceTree = "<group>"; };
+		0442D20B27085CC400059020 /* SignUpViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SignUpViewController.swift; sourceTree = "<group>"; };
+		0442D20C27085CC400059020 /* ForgotPasswordViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ForgotPasswordViewController.swift; sourceTree = "<group>"; };
+		0442D20D27085CC400059020 /* ResetPasswordViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ResetPasswordViewController.swift; sourceTree = "<group>"; };
+		0442D20E27085CC400059020 /* LoginViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
+		0445AD20271B152E00061AA0 /* YourDailyStepsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = YourDailyStepsViewController.swift; sourceTree = "<group>"; };
+		0445AD23271B1A4B00061AA0 /* DealsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DealsViewController.swift; sourceTree = "<group>"; };
+		0445AD26271B1A6200061AA0 /* SettingsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
+		0445AD29271B1A7700061AA0 /* ProfileViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileViewController.swift; sourceTree = "<group>"; };
+		0448A3A4271ACCB000A7F751 /* HomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
+		04641F13272044C700645990 /* OpenSans-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "OpenSans-Regular.ttf"; sourceTree = "<group>"; };
+		04641F14272044C700645990 /* OpenSans-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "OpenSans-Bold.ttf"; sourceTree = "<group>"; };
+		0473F4FE271C44C4003601EB /* RegionLanguageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegionLanguageViewController.swift; sourceTree = "<group>"; };
+		0473F502271C4569003601EB /* DeletePopupViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DeletePopupViewController.swift; sourceTree = "<group>"; };
+		0473F530271C4C5E003601EB /* TabViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabViewController.swift; sourceTree = "<group>"; };
+		0473F533271C603D003601EB /* ChangePasswordViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChangePasswordViewController.swift; sourceTree = "<group>"; };
+		0493F26527663300005A97BD /* UIView+DCAnimationKit.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+DCAnimationKit.m"; sourceTree = "<group>"; };
+		0493F26627663300005A97BD /* UIView+DCAnimationKit.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+DCAnimationKit.h"; sourceTree = "<group>"; };
+		0493F26927663338005A97BD /* Bridge-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Bridge-Header.h"; sourceTree = "<group>"; };
+		25FC69F5FE970482A1D8DFDD /* Pods_EasySteps.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_EasySteps.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		E1C36B0DB4FA2DE5122A91F0 /* Pods-EasySteps.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-EasySteps.release.xcconfig"; path = "Target Support Files/Pods-EasySteps/Pods-EasySteps.release.xcconfig"; sourceTree = "<group>"; };
+		FA9E30BC230A564C65B761E6 /* Pods-EasySteps.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-EasySteps.debug.xcconfig"; path = "Target Support Files/Pods-EasySteps/Pods-EasySteps.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -31,6 +75,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FAEA66E052931B1F9E4D583C /* Pods_EasySteps.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -42,6 +87,8 @@
 			children = (
 				0442D1D82708577400059020 /* EasySteps */,
 				0442D1D72708577400059020 /* Products */,
+				FF6D573710E210B05941B499 /* Pods */,
+				D074A50AB9DA1E66DB3734EF /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -56,15 +103,101 @@
 		0442D1D82708577400059020 /* EasySteps */ = {
 			isa = PBXGroup;
 			children = (
+				0493F26927663338005A97BD /* Bridge-Header.h */,
+				0442D20027085A5C00059020 /* ServiceClass */,
+				0442D1EE270857C200059020 /* Controller */,
+				0442D1F0270857C200059020 /* Models */,
+				0442D1EF270857C200059020 /* Views */,
 				0442D1D92708577400059020 /* AppDelegate.swift */,
 				0442D1DB2708577400059020 /* SceneDelegate.swift */,
-				0442D1DD2708577400059020 /* ViewController.swift */,
 				0442D1DF2708577400059020 /* Main.storyboard */,
 				0442D1E22708577700059020 /* Assets.xcassets */,
 				0442D1E42708577700059020 /* LaunchScreen.storyboard */,
 				0442D1E72708577700059020 /* Info.plist */,
+				04641F14272044C700645990 /* OpenSans-Bold.ttf */,
+				04641F13272044C700645990 /* OpenSans-Regular.ttf */,
+				0493F26427663300005A97BD /* Libs */,
 			);
 			path = EasySteps;
+			sourceTree = "<group>";
+		};
+		0442D1EE270857C200059020 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				0442D20A27085CC400059020 /* LoginSignUp */,
+				0448A3A4271ACCB000A7F751 /* HomeViewController.swift */,
+				0445AD20271B152E00061AA0 /* YourDailyStepsViewController.swift */,
+				0445AD23271B1A4B00061AA0 /* DealsViewController.swift */,
+				0445AD26271B1A6200061AA0 /* SettingsViewController.swift */,
+				0445AD29271B1A7700061AA0 /* ProfileViewController.swift */,
+				0473F4FE271C44C4003601EB /* RegionLanguageViewController.swift */,
+				0473F502271C4569003601EB /* DeletePopupViewController.swift */,
+				0473F530271C4C5E003601EB /* TabViewController.swift */,
+				0473F533271C603D003601EB /* ChangePasswordViewController.swift */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		0442D1EF270857C200059020 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		0442D1F0270857C200059020 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		0442D20027085A5C00059020 /* ServiceClass */ = {
+			isa = PBXGroup;
+			children = (
+				0442D20127085A5C00059020 /* Global.swift */,
+				0442D20227085A5C00059020 /* GlobalConstant.swift */,
+				0442D20327085A5C00059020 /* AppUtilites.swift */,
+				0442D20427085A5C00059020 /* ServiceCall.swift */,
+			);
+			path = ServiceClass;
+			sourceTree = "<group>";
+		};
+		0442D20A27085CC400059020 /* LoginSignUp */ = {
+			isa = PBXGroup;
+			children = (
+				0442D20B27085CC400059020 /* SignUpViewController.swift */,
+				0442D20C27085CC400059020 /* ForgotPasswordViewController.swift */,
+				0442D20D27085CC400059020 /* ResetPasswordViewController.swift */,
+				0442D20E27085CC400059020 /* LoginViewController.swift */,
+			);
+			path = LoginSignUp;
+			sourceTree = "<group>";
+		};
+		0493F26427663300005A97BD /* Libs */ = {
+			isa = PBXGroup;
+			children = (
+				0493F26527663300005A97BD /* UIView+DCAnimationKit.m */,
+				0493F26627663300005A97BD /* UIView+DCAnimationKit.h */,
+			);
+			path = Libs;
+			sourceTree = "<group>";
+		};
+		D074A50AB9DA1E66DB3734EF /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				25FC69F5FE970482A1D8DFDD /* Pods_EasySteps.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		FF6D573710E210B05941B499 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				FA9E30BC230A564C65B761E6 /* Pods-EasySteps.debug.xcconfig */,
+				E1C36B0DB4FA2DE5122A91F0 /* Pods-EasySteps.release.xcconfig */,
+			);
+			path = Pods;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -74,9 +207,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 0442D1EA2708577700059020 /* Build configuration list for PBXNativeTarget "EasySteps" */;
 			buildPhases = (
+				75BDFE64078957DCD7EFF640 /* [CP] Check Pods Manifest.lock */,
 				0442D1D22708577400059020 /* Sources */,
 				0442D1D32708577400059020 /* Frameworks */,
 				0442D1D42708577400059020 /* Resources */,
+				E9E431C32B647B09AD1C41AA /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -126,20 +261,81 @@
 			files = (
 				0442D1E62708577700059020 /* LaunchScreen.storyboard in Resources */,
 				0442D1E32708577700059020 /* Assets.xcassets in Resources */,
+				04641F15272044C700645990 /* OpenSans-Regular.ttf in Resources */,
+				04641F16272044C700645990 /* OpenSans-Bold.ttf in Resources */,
 				0442D1E12708577400059020 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		75BDFE64078957DCD7EFF640 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-EasySteps-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		E9E431C32B647B09AD1C41AA /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-EasySteps/Pods-EasySteps-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-EasySteps/Pods-EasySteps-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-EasySteps/Pods-EasySteps-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		0442D1D22708577400059020 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				0442D1DE2708577400059020 /* ViewController.swift in Sources */,
+				0442D20727085A5C00059020 /* AppUtilites.swift in Sources */,
+				0442D20527085A5C00059020 /* Global.swift in Sources */,
+				0442D20F27085CC400059020 /* SignUpViewController.swift in Sources */,
+				0442D20827085A5C00059020 /* ServiceCall.swift in Sources */,
+				0473F4FF271C44C4003601EB /* RegionLanguageViewController.swift in Sources */,
+				0493F26727663300005A97BD /* UIView+DCAnimationKit.m in Sources */,
+				0473F534271C603D003601EB /* ChangePasswordViewController.swift in Sources */,
+				0442D20627085A5C00059020 /* GlobalConstant.swift in Sources */,
+				0473F531271C4C5E003601EB /* TabViewController.swift in Sources */,
+				0442D21027085CC400059020 /* ForgotPasswordViewController.swift in Sources */,
+				0473F503271C4569003601EB /* DeletePopupViewController.swift in Sources */,
+				0442D21127085CC400059020 /* ResetPasswordViewController.swift in Sources */,
+				0448A3A5271ACCB000A7F751 /* HomeViewController.swift in Sources */,
 				0442D1DA2708577400059020 /* AppDelegate.swift in Sources */,
+				0445AD27271B1A6200061AA0 /* SettingsViewController.swift in Sources */,
+				0445AD24271B1A4B00061AA0 /* DealsViewController.swift in Sources */,
+				0445AD21271B152E00061AA0 /* YourDailyStepsViewController.swift in Sources */,
+				0445AD2A271B1A7700061AA0 /* ProfileViewController.swift in Sources */,
 				0442D1DC2708577400059020 /* SceneDelegate.swift in Sources */,
+				0442D21227085CC400059020 /* LoginViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -283,10 +479,12 @@
 		};
 		0442D1EB2708577700059020 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = FA9E30BC230A564C65B761E6 /* Pods-EasySteps.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CODE_SIGN_STYLE = Automatic;
+				CODE_SIGN_STYLE = Manual;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = EasySteps/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -294,17 +492,21 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.cubes.EasySteps;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				SWIFT_OBJC_BRIDGING_HEADER = "EasySteps/Bridge-Header.h";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
 		0442D1EC2708577700059020 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = E1C36B0DB4FA2DE5122A91F0 /* Pods-EasySteps.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CODE_SIGN_STYLE = Automatic;
+				CODE_SIGN_STYLE = Manual;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = EasySteps/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -312,8 +514,10 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.cubes.EasySteps;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				SWIFT_OBJC_BRIDGING_HEADER = "EasySteps/Bridge-Header.h";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
