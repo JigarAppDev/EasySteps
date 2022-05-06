@@ -10,8 +10,8 @@ import Foundation
 import UIKit
 import SwiftyJSON
 
-var BASEURL: String = "http://46.101.95.217/easysteps/api/"
-var IMAGEURL: String = "http://46.101.95.217/easysteps/"
+var BASEURL: String = ""
+var IMAGEURL: String = ""
 let App_Title: String = "EasySteps"
 
 var LoaderType:Int = 14
