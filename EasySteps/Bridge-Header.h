@@ -9,5 +9,6 @@
 #define Bridge_Header_h
 
 #import "UIView+DCAnimationKit.h"
+#import "LocalizationSystem.h"
 
 #endif /* Bridge_Header_h */

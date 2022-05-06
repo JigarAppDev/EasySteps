@@ -1,0 +1,453 @@
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "043-Kv-pvH"; */
+"043-Kv-pvH.normalTitle" = "إلغاء";
+
+/* Class = "UITextField"; placeholder = "Full Name"; ObjectID = "1Qh-VM-gXZ"; */
+"1Qh-VM-gXZ.placeholder" = "الاسم كامل";
+
+/* Class = "UITextField"; placeholder = "New Password"; ObjectID = "1ZP-Me-eWf"; */
+"1ZP-Me-eWf.placeholder" = "كلمة مرور جديدة";
+
+/* Class = "UILabel"; text = "10"; ObjectID = "1xm-Kf-o50"; */
+"1xm-Kf-o50.text" = "10";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "29f-ub-qMF"; */
+"29f-ub-qMF.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Change Password"; ObjectID = "2mI-ba-Ffo"; */
+"2mI-ba-Ffo.text" = "تغيير كلمة المرور";
+
+/* Class = "UILabel"; text = "Daily Reward"; ObjectID = "2oq-1W-748"; */
+"2oq-1W-748.text" = "المكافأة اليومية";
+
+/* Class = "UILabel"; text = "Select Language"; ObjectID = "2pN-5K-RTB"; */
+"2pN-5K-RTB.text" = "اختر لغة";
+
+/* Class = "UIButton"; normalTitle = "Cancel and go back"; ObjectID = "2uT-Z4-fit"; */
+"2uT-Z4-fit.normalTitle" = "إلغاء والعودة";
+
+/* Class = "UILabel"; text = "4"; ObjectID = "3aW-6E-RhG"; */
+"3aW-6E-RhG.text" = "4";
+
+/* Class = "UITextField"; placeholder = "Confirm Password"; ObjectID = "3gg-7k-c9L"; */
+"3gg-7k-c9L.placeholder" = "تأكيد كلمة المرور";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "3tC-bO-fPs"; */
+"3tC-bO-fPs.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "United Arab Emirates"; ObjectID = "3tW-kx-7Oa"; */
+"3tW-kx-7Oa.text" = "الإمارات العربية المتحدة";
+
+/* Class = "UILabel"; text = "Don't have an account?"; ObjectID = "4BU-nC-6Rz"; */
+"4BU-nC-6Rz.text" = "ليس لديك حساب";
+
+/* Class = "UILabel"; text = "No Steps History"; ObjectID = "4WL-Ch-tfI"; */
+"4WL-Ch-tfI.text" = "لا يوجد سجل خطوات";
+
+/* Class = "UIButton"; normalTitle = "Register"; ObjectID = "5Ad-EJ-KsG"; */
+"5Ad-EJ-KsG.normalTitle" = "تسجيل";
+
+/* Class = "UILabel"; text = "New Password"; ObjectID = "5kc-Dj-zG3"; */
+"5kc-Dj-zG3.text" = "كلمة مرور جديدة";
+
+/* Class = "UITextField"; placeholder = "Email Address"; ObjectID = "6ag-Wh-oEC"; */
+"6ag-Wh-oEC.placeholder" = "البريد  الالكتروني";
+
+/* Class = "UILabel"; text = "4"; ObjectID = "7ZA-tn-W2U"; */
+"7ZA-tn-W2U.text" = "4";
+
+/* Class = "UILabel"; text = "Daily Reward"; ObjectID = "7vh-0Q-41c"; */
+"7vh-0Q-41c.text" = "عملات نقدية";
+
+/* Class = "UILabel"; text = "4"; ObjectID = "7xI-Gy-FYe"; */
+"7xI-Gy-FYe.text" = "4";
+
+/* Class = "UILabel"; text = "Available Balance"; ObjectID = "86N-wO-o5r"; */
+"86N-wO-o5r.text" = "الرصيد المتوفر";
+
+/* Class = "UITextField"; placeholder = "Phone Number"; ObjectID = "8Pc-Uy-TML"; */
+"8Pc-Uy-TML.placeholder" = "رقم الهاتف";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "9Cj-i6-wwD"; */
+"9Cj-i6-wwD.text" = "0";
+
+/* Class = "UILabel"; text = "New!"; ObjectID = "9VS-ac-B1q"; */
+"9VS-ac-B1q.text" = "New!";
+
+/* Class = "UITextField"; placeholder = "Current Password"; ObjectID = "9dg-au-w8s"; */
+"9dg-au-w8s.placeholder" = "كلمة المرور الحالية";
+
+/* Class = "UILabel"; text = "Policy"; ObjectID = "A69-PT-y7q"; */
+"A69-PT-y7q.text" = "السياسة";
+
+/* Class = "UILabel"; text = "0.9 km"; ObjectID = "ABL-e6-Zg6"; */
+"ABL-e6-Zg6.text" = "0.9 km";
+
+/* Class = "UILabel"; text = "Already a member?"; ObjectID = "B9e-Xt-zbp"; */
+"B9e-Xt-zbp.text" = "هل أنت عضو بالفعل؟";
+
+/* Class = "UILabel"; text = "UK"; ObjectID = "BiC-FT-B89"; */
+"BiC-FT-B89.text" = "المملكة المتحدة";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "BwJ-LU-l79"; */
+"BwJ-LU-l79.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Many left"; ObjectID = "CCr-95-Ohw"; */
+"CCr-95-Ohw.text" = "Many left";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "CJI-eI-i0p"; */
+"CJI-eI-i0p.text" = "الاسم";
+
+/* Class = "UILabel"; text = "1 220 steps"; ObjectID = "DOh-0b-jSB"; */
+"DOh-0b-jSB.text" = "1 220 steps";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "EBY-CF-GUJ"; */
+"EBY-CF-GUJ.normalTitle" = "تسليم";
+
+/* Class = "UILabel"; text = "Coins"; ObjectID = "EMo-gV-Is8"; */
+"EMo-gV-Is8.text" = "عملات نقدية";
+
+/* Class = "UILabel"; text = "4"; ObjectID = "EUe-nC-gBE"; */
+"EUe-nC-gBE.text" = "4";
+
+/* Class = "UILabel"; text = "4"; ObjectID = "Exf-mL-6LQ"; */
+"Exf-mL-6LQ.text" = "4";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "FRJ-Hj-hYI"; */
+"FRJ-Hj-hYI.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "G1E-D6-gHY"; */
+"G1E-D6-gHY.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Hza-4b-s0t"; */
+"Hza-4b-s0t.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "I3i-O1-WET"; */
+"I3i-O1-WET.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Delete Account"; ObjectID = "IFu-pC-ar4"; */
+"IFu-pC-ar4.text" = "حذف الحساب";
+
+/* Class = "UILabel"; text = "Daily Reward"; ObjectID = "IQU-iX-qAl"; */
+"IQU-iX-qAl.text" = "عملات نقدية";
+
+/* Class = "UILabel"; text = "USA"; ObjectID = "JVv-VS-5Qf"; */
+"JVv-VS-5Qf.text" = "الولايات المتحدة الأمريكية";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "Jp7-Dd-Gf4"; */
+"Jp7-Dd-Gf4.text" = "0";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "KGU-M3-67W"; */
+"KGU-M3-67W.placeholder" = "كلمة المرور";
+
+/* Class = "UILabel"; text = "Distance"; ObjectID = "KZ6-19-yaf"; */
+"KZ6-19-yaf.text" = "مسافة";
+
+/* Class = "UILabel"; text = "4"; ObjectID = "L0i-l1-xNL"; */
+"L0i-l1-xNL.text" = "4";
+
+/* Class = "UIButton"; normalTitle = "Confirm and Delete "; ObjectID = "LEa-rM-HcY"; */
+"LEa-rM-HcY.normalTitle" = "تأكيد وحذف";
+
+/* Class = "UILabel"; text = "Post Code"; ObjectID = "LSH-sa-4bZ"; */
+"LSH-sa-4bZ.text" = "الرمز البريدي";
+
+/* Class = "UILabel"; text = "Deleting your account will also \ndelete all your EasySteps data."; ObjectID = "LlH-Qh-izs"; */
+"LlH-Qh-izs.text" = "سيؤدي حذف حسابك أيضًا الى حذف جميع بيانات EasySteps الخاصة بك.";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "MW7-mQ-XZ3"; */
+"MW7-mQ-XZ3.normalTitle" = "إلغاء";
+
+/* Class = "UILabel"; text = "Spanish"; ObjectID = "Mxb-XL-WWu"; */
+"Mxb-XL-WWu.text" = "الأسبانية";
+
+/* Class = "UILabel"; text = "Profile"; ObjectID = "NEs-3u-HXA"; */
+"NEs-3u-HXA.text" = "الملف الشخصي";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "NSs-OW-Hgs"; */
+"NSs-OW-Hgs.placeholder" = "كلمة المرور";
+
+/* Class = "UILabel"; text = "4"; ObjectID = "Nt8-gn-1KC"; */
+"Nt8-gn-1KC.text" = "4";
+
+/* Class = "UILabel"; text = "Steps"; ObjectID = "OfL-JU-1Gg"; */
+"OfL-JU-1Gg.text" = "خطوات";
+
+"Steps" = "خطوات";
+
+/* Class = "UILabel"; text = "City"; ObjectID = "Oi9-iz-tnc"; */
+"Oi9-iz-tnc.text" = "المدينة";
+
+/* Class = "UILabel"; text = "Daily Reward"; ObjectID = "PZh-ny-Jk7"; */
+"PZh-ny-Jk7.text" = "دعوة أصدقاء";
+
+/* Class = "UITextField"; placeholder = "Full Name"; ObjectID = "Q3H-V5-8TN"; */
+"Q3H-V5-8TN.placeholder" = "الاسم كامل";
+
+/* Class = "UILabel"; text = "December 21, 2021"; ObjectID = "Qen-bQ-x8s"; */
+"Qen-bQ-x8s.text" = "December 21, 2021";
+
+/* Class = "UITextField"; placeholder = "Region"; ObjectID = "Qg5-C4-4lj"; */
+"Qg5-C4-4lj.placeholder" = "المنطقة";
+
+/* Class = "UILabel"; text = "4"; ObjectID = "QsC-dg-Fvy"; */
+"QsC-dg-Fvy.text" = "4";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "QxR-sA-y9C"; */
+"QxR-sA-y9C.text" = "0";
+
+/* Class = "UILabel"; text = "4"; ObjectID = "R09-Of-I1K"; */
+"R09-Of-I1K.text" = "4";
+
+/* Class = "UITextField"; placeholder = "State"; ObjectID = "RVK-eH-ejw"; */
+"RVK-eH-ejw.placeholder" = "الولاية";
+
+/* Class = "UILabel"; text = "+ 20 coins"; ObjectID = "S3R-Up-0oc"; */
+"S3R-Up-0oc.text" = "+ 20 coins";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "S6p-lw-8yL"; */
+"S6p-lw-8yL.text" = "0";
+
+/* Class = "UILabel"; text = "Forgot Password"; ObjectID = "SGm-kH-Hig"; */
+"SGm-kH-Hig.text" = "نسيت كلمة المرور؟";
+
+/* Class = "UILabel"; text = "Your daily steps"; ObjectID = "SHF-wA-iMJ"; */
+"SHF-wA-iMJ.text" = "خطواتك اليومية";
+
+/* Class = "UILabel"; text = "Address"; ObjectID = "Sb6-5D-9F0"; */
+"Sb6-5D-9F0.text" = "العنوان";
+
+/* Class = "UILabel"; text = "4"; ObjectID = "T8Q-f3-iIb"; */
+"T8Q-f3-iIb.text" = "4";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "TXm-A0-AiC"; */
+"TXm-A0-AiC.normalTitle" = "تسليم";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "Tnb-Zk-3sv"; */
+"Tnb-Zk-3sv.placeholder" = "البريد  الالكتروني";
+
+/* Class = "UILabel"; text = "Today"; ObjectID = "U9q-9u-dJM"; */
+"U9q-9u-dJM.text" = "اليوم";
+
+/* Class = "UILabel"; text = "Balance"; ObjectID = "UAV-pk-3Xs"; */
+"UAV-pk-3Xs.text" = "الرصيد";
+
+/* Class = "UILabel"; text = "Enable Face ID/Touch ID"; ObjectID = "UjO-gh-fhS"; */
+"UjO-gh-fhS.text" = "قم بتمكين Face ID / Touch ID";
+
+/* Class = "UILabel"; text = "Km"; ObjectID = "Ulu-as-0tL"; */
+"Ulu-as-0tL.text" = "كلم";
+
+"km" = "كلم";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "VdY-e6-Dt3"; */
+"VdY-e6-Dt3.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "WWU-J5-Wnq"; */
+"WWU-J5-Wnq.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "WXO-uf-J7q"; */
+"WXO-uf-J7q.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Learn with EasySteps"; ObjectID = "XbW-xE-BfI"; */
+"XbW-xE-BfI.text" = "تعلم مع EasySteps";
+
+/* Class = "UITextField"; placeholder = "Country"; ObjectID = "Y1Z-im-cjt"; */
+"Y1Z-im-cjt.placeholder" = "البلد";
+
+/* Class = "UITextField"; placeholder = "OTP"; ObjectID = "YGt-yu-3lw"; */
+"YGt-yu-3lw.placeholder" = "كلمة مرور لمرة واحدة OTP";
+
+/* Class = "UILabel"; text = "4"; ObjectID = "YRP-8a-pUv"; */
+"YRP-8a-pUv.text" = "4";
+
+/* Class = "UITextField"; placeholder = "Confirm Password"; ObjectID = "YXG-vG-Ug9"; */
+"YXG-vG-Ug9.placeholder" = "تأكيد كلمة المرور";
+
+/* Class = "UITextField"; placeholder = "Post Code"; ObjectID = "YzT-Iw-sBQ"; */
+"YzT-Iw-sBQ.placeholder" = "الرمز البريدي";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "b2l-wt-Nr7"; */
+"b2l-wt-Nr7.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Daily Reward"; ObjectID = "b48-7r-yVg"; */
+"b48-7r-yVg.text" = "عملات نقدية";
+
+/* Class = "UIButton"; normalTitle = "Remember me"; ObjectID = "bCb-ZM-x6k"; */
+"bCb-ZM-x6k.normalTitle" = "تذكرني";
+
+/* Class = "UILabel"; text = "4"; ObjectID = "bbA-GG-KUY"; */
+"bbA-GG-KUY.text" = "4";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "bl5-x2-S0h"; */
+"bl5-x2-S0h.placeholder" = "البريد  الالكتروني";
+
+/* Class = "UILabel"; text = "Email Address"; ObjectID = "bzC-zJ-cNL"; */
+"bzC-zJ-cNL.text" = "البريد  الالكتروني";
+
+/* Class = "UILabel"; text = "Rate the App"; ObjectID = "cBG-35-KtV"; */
+"cBG-35-KtV.text" = "تقييم التطبيق";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "cbk-JQ-ENt"; */
+"cbk-JQ-ENt.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "cfW-RP-GhC"; */
+"cfW-RP-GhC.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Brazil"; ObjectID = "d76-Wk-28j"; */
+"d76-Wk-28j.text" = "البرازيل";
+
+/* Class = "UITextField"; placeholder = "New Password"; ObjectID = "dBY-bJ-tw5"; */
+"dBY-bJ-tw5.placeholder" = "كلمة مرور جديدة";
+
+/* Class = "UILabel"; text = "Select Country"; ObjectID = "dH0-u1-hdQ"; */
+"dH0-u1-hdQ.text" = "اختر الدولة";
+
+/* Class = "UILabel"; text = "Confirm Password"; ObjectID = "dPr-p4-lBe"; */
+"dPr-p4-lBe.text" = "تأكيد كلمة المرور";
+
+/* Class = "UILabel"; text = "4"; ObjectID = "dYe-2d-fFJ"; */
+"dYe-2d-fFJ.text" = "4";
+
+/* Class = "UILabel"; text = "Delete account"; ObjectID = "edv-4P-g1w"; */
+"edv-4P-g1w.text" = "حذف الحساب";
+
+/* Class = "UILabel"; text = "Region & Language"; ObjectID = "fCN-5k-aWy"; */
+"fCN-5k-aWy.text" = "اللغة والمنطقة";
+
+/* Class = "UILabel"; text = "Language"; ObjectID = "gSW-Qk-JKJ"; */
+"gSW-Qk-JKJ.text" = "لغة";
+
+/* Class = "UILabel"; text = "4"; ObjectID = "gZV-xb-YAO"; */
+"gZV-xb-YAO.text" = "4";
+
+/* Class = "UILabel"; text = "Current Password"; ObjectID = "gaS-YO-O4P"; */
+"gaS-YO-O4P.text" = "كلمة المرور الحالية";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "gpn-Oa-TxG"; */
+"gpn-Oa-TxG.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Settings"; ObjectID = "hJg-lA-jh4"; */
+"hJg-lA-jh4.text" = "الإعدادات";
+
+/* Class = "UILabel"; text = "Coins"; ObjectID = "hjf-g6-fuZ"; */
+"hjf-g6-fuZ.text" = "عملات نقدية";
+
+/* Class = "UITextField"; placeholder = "City"; ObjectID = "iW3-jR-r0M"; */
+"iW3-jR-r0M.placeholder" = "المدينة";
+
+/* Class = "UILabel"; text = "Arabic"; ObjectID = "ieN-U6-eIL"; */
+"ieN-U6-eIL.text" = "العربية";
+
+/* Class = "UILabel"; text = "Daily Reward"; ObjectID = "jrw-88-H2p"; */
+"jrw-88-H2p.text" = "المكافأة اليومية";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "kJa-ii-cLe"; */
+"kJa-ii-cLe.normalTitle" = "تسجيل الدخول";
+
+/* Class = "UILabel"; text = "Portuguese"; ObjectID = "l5F-1p-Y14"; */
+"l5F-1p-Y14.text" = "البرتغالية";
+
+/* Class = "UIButton"; normalTitle = "Register"; ObjectID = "lL0-Z4-3Yj"; */
+"lL0-Z4-3Yj.normalTitle" = "تسجيل";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "lsu-dP-bNM"; */
+"lsu-dP-bNM.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Logout"; ObjectID = "nL2-tf-JBU"; */
+"nL2-tf-JBU.text" = "تسجيل خروج";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "nNN-QD-Av2"; */
+"nNN-QD-Av2.normalTitle" = "تسليم";
+
+/* Class = "UILabel"; text = "Region & Language"; ObjectID = "nRD-hA-PQ9"; */
+"nRD-hA-PQ9.text" = "اللغة والمنطقة";
+
+/* Class = "UILabel"; text = "Profile"; ObjectID = "oZG-2q-vxl"; */
+"oZG-2q-vxl.text" = "الملف الشخصي";
+
+/* Class = "UILabel"; text = "Region"; ObjectID = "onL-cu-vuh"; */
+"onL-cu-vuh.text" = "المنطقة";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "pDt-kV-cWP"; */
+"pDt-kV-cWP.text" = "0";
+
+/* Class = "UITextField"; placeholder = "Language"; ObjectID = "pJb-kW-xUV"; */
+"pJb-kW-xUV.placeholder" = "لغة";
+
+/* Class = "UILabel"; text = "Login"; ObjectID = "pKk-Pn-bMf"; */
+"pKk-Pn-bMf.text" = "تسجيل الدخول";
+
+/* Class = "UILabel"; text = "Argentina"; ObjectID = "r44-Pr-KCH"; */
+"r44-Pr-KCH.text" = "الأرجنتين";
+
+/* Class = "UILabel"; text = "Daily Reward"; ObjectID = "rHa-e4-911"; */
+"rHa-e4-911.text" = "عملات نقدية";
+
+/* Class = "UILabel"; text = "Country"; ObjectID = "rmv-8b-Rv4"; */
+"rmv-8b-Rv4.text" = "البلد";
+
+/* Class = "UILabel"; text = "4"; ObjectID = "rvL-KZ-o6g"; */
+"rvL-KZ-o6g.text" = "4";
+
+/* Class = "UIButton"; normalTitle = "Resend OTP"; ObjectID = "rvo-yW-A5g"; */
+"rvo-yW-A5g.normalTitle" = "إعادة إرسال OTP";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "szM-Fb-2CQ"; */
+"szM-Fb-2CQ.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Terms of Use"; ObjectID = "ty8-CB-Mlu"; */
+"ty8-CB-Mlu.text" = "شروط الاستخدام";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "v25-gA-9ai"; */
+"v25-gA-9ai.normalTitle" = "تسجيل الدخول";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "vwM-Qh-qEv"; */
+"vwM-Qh-qEv.placeholder" = "البريد  الالكتروني";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "wIm-61-TM4"; */
+"wIm-61-TM4.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "wMd-d0-g6d"; */
+"wMd-d0-g6d.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Coins"; ObjectID = "whk-yk-GUz"; */
+"whk-yk-GUz.text" = "عملات نقدية";
+
+"Coins" = "عملات نقدية";
+
+/* Class = "UILabel"; text = "500 points"; ObjectID = "x40-3Y-P0z"; */
+"x40-3Y-P0z.text" = "500 points";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "xKP-FY-gBX"; */
+"xKP-FY-gBX.normalTitle" = "تسليم";
+
+/* Class = "UILabel"; text = "Contact Us"; ObjectID = "xZI-Js-eWm"; */
+"xZI-Js-eWm.text" = "اتصل بنا";
+
+/* Class = "UILabel"; text = "English"; ObjectID = "xb0-xY-4Cl"; */
+"xb0-xY-4Cl.text" = "الإنجليزية";
+
+/* Class = "UITextField"; placeholder = "Address"; ObjectID = "xca-Mm-OzZ"; */
+"xca-Mm-OzZ.placeholder" = "العنوان";
+
+/* Class = "UILabel"; text = "State"; ObjectID = "xhw-HC-bxw"; */
+"xhw-HC-bxw.text" = "الولاية";
+
+/* Class = "UIButton"; normalTitle = "Forgot Password?"; ObjectID = "y3f-j6-JzU"; */
+"y3f-j6-JzU.normalTitle" = "نسيت كلمة المرور؟";
+
+/* Class = "UILabel"; text = "Change Password"; ObjectID = "yHj-pN-QJk"; */
+"yHj-pN-QJk.text" = "تغيير كلمة المرور";
+
+/* Class = "UILabel"; text = "Register"; ObjectID = "z0t-hc-q3a"; */
+"z0t-hc-q3a.text" = "تسجيل";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "zBG-en-mBO"; */
+"zBG-en-mBO.normalTitle" = "تسليم";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "zXR-6h-FhN"; */
+"zXR-6h-FhN.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "No Deals Found"; ObjectID = "zlb-6w-gTA"; */
+"zlb-6w-gTA.text" = "لم يتم العثور على صفقات";

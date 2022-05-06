@@ -1,17 +1,17 @@
 {
   "images" : [
     {
-      "filename" : "directions_run_black_24dp.png",
+      "filename" : "Asset 9.png",
       "idiom" : "universal",
       "scale" : "1x"
     },
     {
-      "filename" : "directions_run_black_24dp@2x.png",
+      "filename" : "Asset 9_2x.png",
       "idiom" : "universal",
       "scale" : "2x"
     },
     {
-      "filename" : "directions_run_black_24dp@3x.png",
+      "filename" : "Asset 9_3x.png",
       "idiom" : "universal",
       "scale" : "3x"
     }

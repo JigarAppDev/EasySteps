@@ -1,0 +1,190 @@
+/* 
+  Localizable.strings
+  EasySteps
+
+  Created by Jigar on 23/03/22.
+  
+*/
+
+
+"Cancel" = "Cancel";
+
+"Full.Name" = "Full Name";
+
+"New.Password" = "New Password";
+
+"Change.Password" = "Change Password";
+
+"Daily.Reward" = "Daily Reward";
+
+"Select.Language" = "Select Language";
+
+"Cancel.and.go.back" = "Cancel and go back";
+
+"Confirm.Password" = "Confirm Password";
+
+"UAE" = "United Arab Emirates";
+
+"Don't.account?" = "Don't have an account?";
+
+"No.Steps.History" = "No Steps History";
+
+"Register" = "Register";
+
+"New.Password" = "New Password";
+
+"Email.Address" = "Email Address";
+
+"Coins" = "Coins";
+
+"Available.Balance" = "Available Balance";
+
+"Phone.Number" = "Phone Number";
+
+"New!" = "New!";
+
+"Current.Password" = "Current Password";
+
+"Policy" = "Policy";
+
+"Already.a.member?" = "Already a member?";
+
+"UK" = "UK";
+
+"Many.left" = "Many left";
+
+"Name" = "Name";
+
+"Save" = "Save";
+
+"Delete.Account" = "Delete Account";
+
+"USA" = "USA";
+
+"Password" = "Password";
+
+"Distance" = "Distance";
+
+"Confirm.and.Delete" = "Confirm and Delete ";
+
+"Post.Code" = "Post Code";
+
+"Delete.Account.Msg" = "Deleting your account will also \ndelete all your EasySteps data.";
+
+"Spanish" = "Spanish";
+
+"Profile" = "Profile";
+
+"Steps" = "Steps";
+
+"City" = "City";
+
+"Invite.Friends" = "Invite Friends";
+
+"Full.Name" = "Full Name";
+
+"Region" = "Region";
+
+"State" = "State";
+
+"Forgot.Password" = "Forgot Password";
+
+"Your.daily.steps" = "Your daily steps";
+
+"Address" = "Address";
+
+"Email" = "Email";
+
+"Today" = "Today";
+
+"Balance" = "Balance";
+
+"Face.ID" = "Enable Face ID/Touch ID";
+
+"km" = "Km";
+
+"Learn.ES" = "Learn with EasySteps";
+
+"Country" = "Country";
+
+"OTP" = "OTP";
+
+"Confirm.Password" = "Confirm Password";
+
+"Post.Code" = "Post Code";
+
+"Remember.me" = "Remember me";
+
+"Email.Address" = "Email Address";
+
+"Rate.the.App" = "Rate the App";
+
+"Brazil" = "Brazil";
+
+"New.Password" = "New Password";
+
+"Select.Country" = "Select Country";
+
+"Confirm.Password" = "Confirm Password";
+
+"Delete.account" = "Delete account";
+
+"Region.&.Language" = "Region & Language";
+
+"Language" = "Language";
+
+"Current.Password" = "Current Password";
+
+"Settings" = "Settings";
+
+"Arabic" = "Arabic";
+
+"Login" = "Login";
+
+"Portuguese" = "Portuguese";
+
+"Register" = "Register";
+
+"Logout" = "Logout";
+
+"Submit" = "Submit";
+
+"Region.&.Language" = "Region & Language";
+
+"Profile" = "Profile";
+
+"Region" = "Region";
+
+"Language" = "Language";
+
+"Argentina" = "Argentina";
+
+"Country" = "Country";
+
+"Resend.OTP" = "Resend OTP";
+
+"Terms.of.Use" = "Terms of Use";
+
+"Submit" = "Submit";
+
+"Contact.Us" = "Contact Us";
+
+"English" = "English";
+
+"Address" = "Address";
+
+"State" = "State";
+
+"Forgot.Password?" = "Forgot Password?";
+
+"Change.Password" = "Change Password";
+
+"Register" = "Register";
+
+"No.Deals.Found" = "No Deals Found";
+
+"Logout.Msg" = "Are you sure you want to log out?";
+
+"Yes" = "Yes";
+
+"No" = "No";

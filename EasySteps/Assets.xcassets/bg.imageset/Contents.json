@@ -1,11 +1,11 @@
 {
   "images" : [
     {
-      "filename" : "Background Gray Radial Gradient.png",
       "idiom" : "universal",
       "scale" : "1x"
     },
     {
+      "filename" : "4x.png",
       "idiom" : "universal",
       "scale" : "2x"
     },

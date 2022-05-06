@@ -1,0 +1,151 @@
+/*
+  Localizable.strings
+  EasySteps
+
+  Created by Jigar on 23/03/22.
+  
+*/
+
+
+"Cancel" = "Cancelar";
+
+"Full.Name" = "Nombre completo";
+
+"New.Password" = "Nueva contraseña";
+
+"Change.Password" = "Cambiar la contraseña";
+
+"Daily.Reward" = "Recompensa diaria";
+
+"Select.Language" = "Seleccione el idioma";
+
+"Cancel.and.go.back" = "Cancelar y volver";
+
+"Confirm.Password" = "Confirme la contraseña";
+
+"UAE" = "Emiratos Árabes Unidos";
+
+"Don't.account?" = "¿No tiene una cuenta?";
+
+"No.Steps.History" = "Sin historial de pasos";
+
+"Register" = "Registrarse";
+
+"Coins" = "Monedas";
+
+"Available.Balance" = "Saldo disponible";
+
+"Phone.Number" = "Número de teléfono";
+
+"Current.Password" = "Contraseña actual";
+
+"Policy" = "Política";
+
+"Already.a.member?" = "¿Ya es miembro?";
+
+"UK" = "REINO UNIDO";
+
+"Name" = "Nombre";
+
+"Save" = "Enviar";
+
+"Delete.Account" = "Borrar la cuenta";
+
+"USA" = "EE.UU.";
+
+"Password" = "Contraseña";
+
+"Distance" = "Distancia";
+
+"Confirm.and.Delete" = "Confirmar & Borrar";
+
+"Post.Code" = "Código postal";
+
+"Delete.Account.Msg" = "Al borrar su cuenta también se
+borrará todos sus datos de EasySteps.";
+
+"Spanish" = "Español";
+
+"Steps" = "Pasos";
+
+"City" = "Ciudad";
+
+"Invite.Friends" = "Invitar a amigas";
+
+"State" = "Estado";
+
+"Forgot.Password" = "¿Olvidó su contraseña?";
+
+"Your.daily.steps" = "Sus pasos diarios";
+
+"Email" = "Correo electrónico";
+
+"Today" = "Hoy";
+
+"Balance" = "Saldo";
+
+"Face.ID" = "Habilitar Face ID/Touch ID";
+
+"km" = "Km.";
+
+"Learn.ES" = "Aprenda con EasySteps";
+
+"Country" = "País";
+
+"OTP" = "OTP";
+
+"Post.Code" = "Código postal";
+
+"Remember.me" = "Recordarme";
+
+"Email.Address" = "Correo electrónico";
+
+"Rate.the.App" = "Califique la aplicación";
+
+"Brazil" = "Brasil";
+
+"Select.Country" = "Seleccione el país";
+
+"Region.&.Language" = "Región e idioma";
+
+"Language" = "Idioma";
+
+"Current.Password" = "Contraseña actual";
+
+"Settings" = "Ajustes";
+
+"Arabic" = "Árabe";
+
+"Login" = "Iniciar sesión";
+
+"Portuguese" = "Portuguese";
+
+"Logout" = "Cerrar la sesión";
+
+"Submit" = "Enviar";
+
+"Profile" = "Perfil";
+
+"Region" = "Región";
+
+"Argentina" = "Argentina";
+
+"Resend.OTP" = "Reenviar OTP";
+
+"Terms.of.Use" = "Condiciones de uso";
+
+"Contact.Us" = "Contacto con nosotros";
+
+"English" = "Inglés";
+
+"Address" = "Dirección";
+
+"Forgot.Password?" = "¿Olvidó su contraseña?";
+
+"No.Deals.Found" = "No se han encontrado ofertas";
+
+"Logout.Msg" = "¿Estás segura de que quieres cerrar sesión?";
+
+"Yes" = "sí";
+
+"No" = "No";

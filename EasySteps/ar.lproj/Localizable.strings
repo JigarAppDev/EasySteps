@@ -1,0 +1,154 @@
+/*
+  Localizable.strings
+  EasySteps
+
+  Created by Jigar on 23/03/22.
+  
+*/
+
+
+"Cancel" = "إلغاء";
+
+"Full.Name" = "الاسم كامل";
+
+"New.Password" = "كلمة مرور جديدة";
+
+"Change.Password" = "تغيير كلمة المرور";
+
+"Daily.Reward" = "المكافأة اليومية";
+
+"Select.Language" = "اختر لغة";
+
+"Cancel.and.go.back" = "إلغاء والعودة";
+
+"Confirm.Password" = "تأكيد كلمة المرور";
+
+"UAE" = "الإمارات العربية المتحدة";
+
+"Don't.account?" = "ليس لديك حساب";
+
+"No.Steps.History" = "لا يوجد سجل خطوات";
+
+"Register" = "تسجيل";
+
+"Coins" = "عملات نقدية";
+
+"Available.Balance" = "الرصيد المتوفر";
+
+"Phone.Number" = "رقم الهاتف";
+
+"New!" = "New!";
+
+"Current.Password" = "كلمة المرور الحالية";
+
+"Policy" = "السياسة";
+
+"Already.a.member?" = "هل أنت عضو بالفعل؟";
+
+"UK" = "المملكة المتحدة";
+
+"Name" = "الاسم";
+
+"Save" = "تسليم";
+
+"Delete.Account" = "حذف الحساب";
+
+"USA" = "الولايات المتحدة الأمريكية";
+
+"Password" = "كلمة المرور";
+
+"Distance" = "مسافة";
+
+"Confirm.and.Delete" = "تأكيد وحذف";
+
+"Post.Code" = "الرمز البريدي";
+
+"Delete.Account.Msg" = "سيؤدي حذف حسابك أيضًا الى حذف جميع بيانات EasySteps الخاصة بك.";
+
+"Spanish" = "الأسبانية";
+
+"Steps" = "خطوات";
+
+"City" = "المدينة";
+
+"Invite.Friends" = "ادعو أصدقاء";
+
+"State" = "الولاية";
+
+"Forgot.Password" = "نسيت كلمة المرور";
+
+"Your.daily.steps" = "خطواتك اليومية";
+
+"Email" = "البريد  الالكتروني";
+
+"Today" = "اليوم";
+
+"Balance" = "الرصيد";
+
+"Face.ID" = "قم بتمكين Face ID / Touch ID";
+
+"km" = "كلم";
+
+"Learn.ES" = "تعلم مع EasySteps";
+
+"Country" = "البلد";
+
+"OTP" = "كلمة مرور لمرة واحدة OTP";
+
+"Post.Code" = "الرمز البريدي";
+
+"Remember.me" = "تذكرني";
+
+"Email.Address" = "البريد  الالكتروني";
+
+"Rate.the.App" = "تقييم التطبيق";
+
+"Brazil" = "البرازيل";
+
+"Select.Country" = "اختر الدولة";
+
+"Delete.account" = "حذف الحساب";
+
+"Region.&.Language" = "اللغة والمنطقة";
+
+"Language" = "لغة";
+
+"Current.Password" = "كلمة المرور الحالية";
+
+"Settings" = "الإعدادات";
+
+"Arabic" = "العربية";
+
+"Login" = "تسجيل الدخول";
+
+"Portuguese" = "البرتغالية";
+
+"Logout" = "تسجيل خروج";
+
+"Submit" = "تسليم";
+
+"Profile" = "الملف الشخصي";
+
+"Region" = "المنطقة";
+
+"Argentina" = "الأرجنتين";
+
+"Resend.OTP" = "إعادة إرسال OTP";
+
+"Terms.of.Use" = "شروط الاستخدام";
+
+"Contact.Us" = "اتصل بنا";
+
+"English" = "الإنجليزية";
+
+"Address" = "العنوان";
+
+"Forgot.Password?" = "نسيت كلمة المرور؟";
+
+"No.Deals.Found" = "لم يتم العثور على صفقات";
+
+"Logout.Msg" = "هل أنت متأكد أنك تريد تسجيل الخروج؟";
+
+"Yes" = "نعم";
+
+"No" = "رقم";
